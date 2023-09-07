@@ -37,11 +37,11 @@ This part involves manipulating the data stored in our data warehouse and levera
 
 - **Theme 1 :**
 
-![]()
+![](https://github.com/elanssariyassine/TRANSPORT_BI_ETL_DASHBOARD/blob/main/dashboard.png)
 
 - **Theme 2 :**
 
-![]()
+![](https://github.com/elanssariyassine/TRANSPORT_BI_ETL_DASHBOARD/blob/main/dashboard2.png)
 
 
 
