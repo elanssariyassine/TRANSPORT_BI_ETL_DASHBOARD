@@ -26,6 +26,25 @@ https://www.stm.info/
 
 ![](https://github.com/elanssariyassine/TRANSPORT_BI_ETL_DASHBOARD/blob/main/Design.png)
 
+## ETL 
+
+the Description of ETL steps and all the process are included in the reporte file 
+-
+
+## Dashboard 
+
+This part involves manipulating the data stored in our data warehouse and leveraging it to create an interactive dashboard that helps visualize the details hidden within the data for thorough exploration and optimized utilization. This facilitates decision-making. To achieve this, we have adopted the Power BI visualization solution. Above is the result :
+
+- **Theme 1 :**
+
+![]()
+
+- **Theme 2 :**
+
+![]()
+
+
+
  
 
 
